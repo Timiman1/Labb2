@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Numerics;
+
 namespace Labb2_Console
 {
     class Program
